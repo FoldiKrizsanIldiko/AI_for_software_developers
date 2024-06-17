@@ -4,12 +4,70 @@ Writing the correct prompt is not trivial
 Having this skill will give you job safety in the coming years
 Prompt engineering will probably be a significant player in most professions
 
+<h3 style="text-align: center;">SPQA (State, Policy, Questions, Action) </h3>
+ 
 
-### SPQA (State, Policy, Questions, Action)
-
-https:/danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/
 https:/danielmiessler.com/blog/pre-and-post-llm-software/
 Daniel Miessler
 information security professional
 writes about broad variety of topics in information technologies
 
+
+<img src="SPQA.png" width="300" height="200">  
+  
+Form https:/danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/
+
+<img src="OldVSNew.png" width="300" height="200">  
+
+Do GPTs understand things? Yes. The magic of the tech is that GPTs basically have to accidentally learn concepts in a deep way so they can properly predict the next letter in a sequence. It can then apply those concepts in new situations.
+
+But does a GPT know what it feels like to love? Or to contemplate the universe? Or human mortality? No. They haven’t a clue. They don’t have feelings. They’re not conscious. They don’t experience things one little bit.
+
+https:/danielmiessler.com/blog/pre-and-post-llm-software/
+
+
+<h3 style="text-align: center;">
+
+GitHub Copilot
+
+<img src="GHCopilot.png">
+ </h3>
+
+
+
+- Autocomplete
+- Generate code
+- Helping with repetative tasks
+- Writing regular expressions and boilerplate
+
+<h3 style="text-align: center;">
+
+Amazon CodeWhisperer
+
+<img src="ACodeWhi.png">
+ </h3>
+
+- Optimized for use with AWS services
+- Relevant cloud services
+- Suggests libraries
+- Uses AWS best practices
+- Built-in security scans
+
+<h3 style="text-align: center;">
+
+Tabnine
+
+<img src="tabnine.png">
+ </h3>
+
+- still in beta
+- code completion
+
+<h3 style="text-align: center;">
+
+Dall-E 3
+
+<img src="dallE.png">
+ </h3>
+
+ 

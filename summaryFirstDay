@@ -70,4 +70,63 @@ Dall-E 3
 <img src="dallE.png">
  </h3>
 
- 
+<img src="PIC1.png" width="300" >
+<img src="PIC2.png" width="300" >
+
+
+<h3 style="text-align: center;">
+Stable Diffusion XL
+ </h3>
+
+<img src="SDXL.png" width="300" >
+
+Errors:
+- headlights
+- license plate - no caracters
+- spoiler
+- paralell lines
+
+
+<h3 style="text-align: center;">
+Developer Plugins
+</h3>
+
+Advanced Data Analytics:
+
+Do math examples, more complex calculations  -build Python code to solve math problems  
+Upload and download files  
+Analyze data  
+Create and interpret code  - python for now  
+
+
+What are the building blocks of AI?
+- Model: Mathematical representations of a system, the brain behind them
+- Prompt: A "request" to the model
+- Token: "Bits" on the wire, atoms of the AI universe 
+- Completions: The response from the model
+
+- fine-tuning the model is dumbing it down
+
+<h3 style="text-align: center;">
+Good prompt
+</h3>
+
+Role + context + input + output + restrictions
+
+SudoLang
+
+way of prompt compression
+define("stochastic parrot"):length=brief
+
+
+GitHub Copilot
+
+- Use comments
+- Write code and let Copilot generate completions
+
+results: less stress  
+faster  
+
+Functions: 
+- autocomplete
+
